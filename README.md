@@ -42,11 +42,6 @@ Real Time Chat using React Native and Firebase
 4. Type `react-native run-android` for run this app. ***Make sure your device is connected with debugging mode***.
 
 ## Screenshots
-![Screenshot_1585837017 (2)](https://user-images.githubusercontent.com/42709965/78543299-ab840a80-7822-11ea-8e42-5e38cac0c25f.png)
-![Screenshot_1585837611 (2)](https://user-images.githubusercontent.com/42709965/78543325-b5a60900-7822-11ea-9be7-570df4959108.png)
-![Screenshot_1585837646 (2)](https://user-images.githubusercontent.com/42709965/78543335-b9d22680-7822-11ea-848c-6abd107372ce.png)
-![Screenshot_1585837684 (2)](https://user-images.githubusercontent.com/42709965/78543340-bc348080-7822-11ea-9c0e-c252e714a28e.png)
-
 <div align="center">
     <img width="210" src="https://user-images.githubusercontent.com/42709965/78543299-ab840a80-7822-11ea-8e42-5e38cac0c25f.png">   
     <img width="210" src="https://user-images.githubusercontent.com/42709965/78543325-b5a60900-7822-11ea-9be7-570df4959108.png">
